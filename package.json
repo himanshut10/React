@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React Tutorial",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshut10/React.git"
+  },
+  "keywords": [
+    "react_"
+  ],
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshut10/React/issues"
+  },
+  "homepage": "https://github.com/himanshut10/React#readme"
+}
